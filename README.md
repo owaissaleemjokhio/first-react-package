@@ -1,6 +1,4 @@
-# first-react-package
-
-You can clone it and step by step create your own NPM package and publish it.
+You can clone it and step by step create.
 
 It is simple React counter.
 
